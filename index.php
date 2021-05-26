@@ -1,5 +1,5 @@
 <?php include("index.html") ?>
-<?php include("sec.html") ?>
+<?php include("two.html") ?>
 
 
 
